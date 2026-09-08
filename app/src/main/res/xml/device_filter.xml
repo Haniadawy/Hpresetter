@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- WCH CH341 : VID 0x1A86 -->
+    <usb-device vendor-id="6790" product-id="21778" /> <!-- 0x5512 CH341A I2C/SPI/EPP -->
+    <usb-device vendor-id="6790" product-id="21795" /> <!-- 0x5523 -->
+    <usb-device vendor-id="6790" product-id="21979" /> <!-- 0x55DB -->
+    <usb-device vendor-id="6790" product-id="21784" /> <!-- 0x5518 -->
+</resources>
